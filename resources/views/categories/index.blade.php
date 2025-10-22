@@ -51,7 +51,7 @@
 
             <div class="my-5">
                 <table class="table">
-                    <thead class="table">
+                    <thead class="table-white">
                         <tr>
                             <th>NO.</th>
                             <th>Category Name</th>
